@@ -1,0 +1,3 @@
+SELECT * from Doctors
+WHERE Salary NOT BETWEEN 700 AND 3000
+ORDER BY salary DESC;
